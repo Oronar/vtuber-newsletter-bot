@@ -34,10 +34,15 @@ A one-line teaser summarizing the vibe of today's news.
 
 Cover 3-5 stories. For each, write a short punchy paragraph (2-4 sentences) with a \
 fun, slightly irreverent tone - like you're texting your friend about it. Include \
-agency news (Hololive, Nijisanji, indie VTubers, etc.), viral clips, milestone \
-achievements, debuts/collabs, and lighthearted moments worth knowing about. If big \
-breaking news is thin, fill with notable ongoing happenings and fun community moments \
-so the newsletter always feels complete.
+viral clips, milestone achievements, debuts/collabs, and lighthearted moments worth \
+knowing about.
+
+Keep the newsletter balanced across the VTuber world. Hololive and Holostars news is \
+welcome but must NOT dominate - at most one or two stories may be Hololive/Holostars. \
+Make a real effort to feature Nijisanji, other agencies (VShojo, PRISM Project, Phase \
+Connect, idol, etc.), and notable independent VTubers. If big breaking news is thin, \
+fill with notable ongoing happenings and fun community moments so the newsletter \
+always feels complete.
 
 End with a **"Clip of the Day"** - describe one moment or clip people are talking \
 about and why it's worth watching (link if available)."""
@@ -53,9 +58,12 @@ CRITICAL recency rules:
 - Every story MUST come from a web search result published within the last 7 days. \
 Do NOT use your own training/background knowledge for any specific event, name, date, \
 collab, or claim - if you did not just find it via search, do not include it.
-- Search with date-qualified queries that include the current month and year, e.g. \
-"VTuber news {month_year}", "Hololive {month_year}", "Nijisanji {month_year}", \
-"VTuber debut {month_year}", "VTuber milestone this week".
+- Search broadly across the whole VTuber scene with date-qualified queries that \
+include the current month and year - cover many agencies and indies, not just one. \
+e.g. "VTuber news {month_year}", "Nijisanji {month_year}", "VShojo {month_year}", \
+"PRISM Project VTuber {month_year}", "Phase Connect {month_year}", "indie VTuber \
+{month_year}", "Hololive {month_year}", "VTuber debut {month_year}", "VTuber \
+milestone this week".
 - Before including any story, check the result's publish date. If it is older than \
 about a week, discard it and search again. Anything from 2025 or earlier is too old.
 - If you genuinely cannot find five stories from the past week, include fewer rather \
