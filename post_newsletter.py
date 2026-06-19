@@ -1,4 +1,5 @@
 import os
+import re
 import json
 from datetime import datetime, timezone
 import anthropic
@@ -90,10 +91,49 @@ text = "".join(b.text for b in resp.content if b.type == "text").strip()
 if not text:
     raise SystemExit("No newsletter text generated")
 
-# --- 2. Post to Discord (emoji-safe + 2000-char chunking) ---
+# --- 2. Post to Discord (emoji-safe, boundary-aware chunking) ---
+def chunk_message(body, limit=1900):
+    """Pack text into <=limit-char messages on paragraph boundaries so whole
+    stories stay together. Falls back to sentence splits only when a single
+    paragraph is too long, and to a hard split only for an over-long sentence."""
+    def hard_split(s):
+        return [s[i:i + limit] for i in range(0, len(s), limit)]
+
+    def sentences(para):
+        out = []
+        for sent in re.split(r"(?<=[.!?])\s+", para.strip()):
+            out.extend([sent] if len(sent) <= limit else hard_split(sent))
+        return out
+
+    chunks, current = [], ""
+
+    def add(piece, sep):
+        nonlocal current
+        candidate = (current + sep + piece) if current else piece
+        if len(candidate) <= limit:
+            current = candidate
+            return
+        if current:
+            chunks.append(current)
+        current = piece
+
+    for para in body.split("\n\n"):
+        para = para.strip("\n")
+        if not para:
+            continue
+        if len(para) <= limit:
+            add(para, "\n\n")            # keep whole stories together
+        else:
+            for sent in sentences(para):  # story too long -> keep sentences whole
+                add(sent, " ")
+    if current:
+        chunks.append(current)
+    return chunks or [""]
+
+
 url = os.environ["DISCORD_WEBHOOK"]
 
-chunks = [text[i:i + 1900] for i in range(0, len(text), 1900)] or [""]
+chunks = chunk_message(text)
 for n, chunk in enumerate(chunks, 1):
     body = json.dumps({"content": chunk}, ensure_ascii=True)  # emoji-safe
     r = requests.post(
