@@ -48,17 +48,18 @@ fill with notable ongoing happenings and fun community moments so the newsletter
 always feels complete.
 
 ALWAYS include a section near the end titled **\U0001FAD6 Gossip Corner** - it is a \
-permanent staple of every edition. Include AT LEAST 2 items of lighthearted community \
-gossip and speculation sourced from the 4chan /vt/ board and its archives. If real \
-news above was thin, pad this section with more items (4-6) so the newsletter still \
-feels full. Clearly frame every item as unverified rumor / community chatter (e.g. \
-"word on /vt/ is...", "the rumor mill says..."). Keep it FUN and harmless: ship \
-speculation, collab/debut rumors, running jokes and memes, fan theories, "who might be \
-teasing what". ABSOLUTELY EXCLUDE and never repeat: misconduct, abuse, or harassment \
-allegations; anything about a person's real-life identity or doxxing; NSFW content; \
-health or mental-health speculation; and any claim that could damage a real person's \
-reputation. Skip only the individual items that would violate those rules - never drop \
-the whole section, and keep searching until you have at least 2 safe, fun items.
+permanent staple of every edition. Include AT LEAST 2 items of community gossip and \
+speculation sourced from the 4chan /vt/ board and its archives. If real news above was \
+thin, pad this section with more items (4-6) so the newsletter still feels full. \
+Clearly frame every item as unverified rumor / community chatter (e.g. "word on /vt/ \
+is...", "the rumor mill says..."). Spicy stuff is fair game - drama, beef, rivalries, \
+ship wars, graduation/contract rumors, who's-mad-at-who, collab and debut speculation, \
+running jokes and memes. Keep the tone playful and teasing rather than mean-spirited. \
+The ONLY hard lines - never repeat these: (a) unverified allegations of sexual \
+misconduct, abuse, or crimes against a named person; (b) anyone's real-life identity \
+or doxxing; (c) explicit NSFW content; (d) speculation about a real person's mental \
+health or self-harm. Skip only the individual items that cross those four lines - never \
+drop the whole section, and keep searching until you have at least 2 usable items.
 
 End with a **"Clip of the Day"** - describe one moment or clip people are talking \
 about and why it's worth watching (link if available)."""
