@@ -29,7 +29,8 @@ who's into VTubers. Use web search for fresh info from the last 24 hours."""
 
 # --- 1. Generate the newsletter (server-side web search) ---
 messages = [{"role": "user", "content": PROMPT}]
-tools = [{"type": "web_search_20260209", "name": "web_search"}]
+tools = [{"type": "web_search_20260209", "name": "web_search",
+          "allowed_callers": ["direct"]}]  # Haiku doesn't support programmatic tool calling
 
 for _ in range(10):  # guard against runaway pause_turn loops
     resp = client.messages.create(
