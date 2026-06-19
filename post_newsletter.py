@@ -68,11 +68,17 @@ e.g. "VTuber news {month_year}", "Nijisanji {month_year}", "VShojo {month_year}"
 "PRISM Project VTuber {month_year}", "Phase Connect {month_year}", "indie VTuber \
 {month_year}", "Hololive {month_year}", "VTuber debut {month_year}", "VTuber news \
 today".
-- Before including any story, check the result's publish date. If it is older than \
-about 24 hours, discard it and search again. Anything from before yesterday is too \
-old, and anything from 2025 or earlier is far too old.
-- If you genuinely cannot find five stories from the last 24 hours, include fewer \
-rather than padding with older news - but always produce a complete newsletter.
+- ALSO search X/Twitter directly for fresh community chatter and clips, since a lot of \
+VTuber news breaks there first. Use site-scoped queries such as "site:x.com VTuber \
+{month_year}", "site:twitter.com VTuber clip {month_year}", "site:x.com Nijisanji OR \
+VShojo {month_year}", and "site:x.com VTuber debut OR milestone {month_year}". Treat \
+any tweet you find as a real source - verify the post date and quote/summarize it.
+- Before including any story, check the result's publish date. Web/article sources \
+must be from the last 24 hours (today or yesterday). X/Twitter posts may be up to 48 \
+hours old since tweets carry reliable timestamps. Discard anything older - anything \
+from 2025 or earlier is far too old.
+- If you genuinely cannot find five fresh stories, include fewer rather than padding \
+with older news - but always produce a complete newsletter.
 
 {PROMPT}"""
 
