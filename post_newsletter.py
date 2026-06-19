@@ -45,12 +45,11 @@ about and why it's worth watching (link if available)."""
 
 # --- 1. Generate the newsletter (server-side web search) ---
 messages = [{"role": "user", "content": PROMPT}]
-tools = [{"type": "web_search_20260209", "name": "web_search",
-          "allowed_callers": ["direct"]}]  # Haiku doesn't support programmatic tool calling
+tools = [{"type": "web_search_20260209", "name": "web_search"}]  # dynamic filtering on 4.6+
 
 for _ in range(10):  # guard against runaway pause_turn loops
     resp = client.messages.create(
-        model="claude-haiku-4-5",
+        model="claude-sonnet-4-6",
         max_tokens=16000,
         system=SYSTEM,
         tools=tools,

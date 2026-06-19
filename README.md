@@ -6,8 +6,8 @@ Claude API (web search enabled) and posts it to a Discord channel via webhook.
 ## How it works
 
 `post_newsletter.py`:
-1. Calls the Claude API (`claude-haiku-4-5`) with the `web_search` tool to write a
-   newsletter from the last 24 hours of VTuber news.
+1. Calls the Claude API (`claude-sonnet-4-6`) with the `web_search` tool to write a
+   newsletter from the latest VTuber news.
 2. Posts the result to a Discord webhook, encoded as ASCII-safe JSON (so emoji can't
    produce invalid-UTF-8 / "invalid JSON" errors) and split into <2000-char chunks.
 
