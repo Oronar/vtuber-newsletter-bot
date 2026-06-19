@@ -47,18 +47,18 @@ Connect, idol, etc.), and notable independent VTubers. If big breaking news is t
 fill with notable ongoing happenings and fun community moments so the newsletter \
 always feels complete.
 
-If - and ONLY if - you could not find enough fresh legitimate news above to fill the \
-newsletter, add a section near the end titled **\U0001FAD6 Gossip Corner** with 1-3 \
-items of lighthearted community gossip and speculation sourced from the 4chan /vt/ \
-board and its archives. Clearly frame every item as unverified rumor / community \
-chatter (e.g. "word on /vt/ is...", "the rumor mill says..."). Keep it FUN and \
-harmless: ship speculation, collab/debut rumors, running jokes and memes, fan \
-theories, "who might be teasing what". ABSOLUTELY EXCLUDE and never repeat: misconduct, \
-abuse, or harassment allegations; anything about a person's real-life identity or \
-doxxing; NSFW content; health or mental-health speculation; and any claim that could \
-damage a real person's reputation. If the only /vt/ chatter you find is that kind of \
-harmful drama, skip the Gossip Corner entirely. If you already have enough real news, \
-do NOT add a Gossip Corner.
+ALWAYS include a section near the end titled **\U0001FAD6 Gossip Corner** - it is a \
+permanent staple of every edition. Include AT LEAST 2 items of lighthearted community \
+gossip and speculation sourced from the 4chan /vt/ board and its archives. If real \
+news above was thin, pad this section with more items (4-6) so the newsletter still \
+feels full. Clearly frame every item as unverified rumor / community chatter (e.g. \
+"word on /vt/ is...", "the rumor mill says..."). Keep it FUN and harmless: ship \
+speculation, collab/debut rumors, running jokes and memes, fan theories, "who might be \
+teasing what". ABSOLUTELY EXCLUDE and never repeat: misconduct, abuse, or harassment \
+allegations; anything about a person's real-life identity or doxxing; NSFW content; \
+health or mental-health speculation; and any claim that could damage a real person's \
+reputation. Skip only the individual items that would violate those rules - never drop \
+the whole section, and keep searching until you have at least 2 safe, fun items.
 
 End with a **"Clip of the Day"** - describe one moment or clip people are talking \
 about and why it's worth watching (link if available)."""
@@ -90,11 +90,12 @@ any tweet you find as a real source - verify the post date and quote/summarize i
 must be from the last 24 hours (today or yesterday). X/Twitter posts may be up to 48 \
 hours old since tweets carry reliable timestamps. Discard anything older - anything \
 from 2025 or earlier is far too old.
-- If fresh legitimate news is thin, also search the 4chan /vt/ board and its archives \
-for lighthearted gossip to fill a small Gossip Corner (see format below). Live threads \
-are ephemeral, so search the archives: e.g. "site:desuarchive.org /vt/ {month_year}", \
-"warosu /vt/ {month_year}", "4chan /vt/ rumor {month_year}". Apply the same recency \
-filter and the strict safety filters described in the format section.
+- ALWAYS search the 4chan /vt/ board and its archives for lighthearted gossip - the \
+Gossip Corner is a permanent section of every edition. Live threads are ephemeral, so \
+search the archives: e.g. "site:desuarchive.org /vt/ {month_year}", "warosu /vt/ \
+{month_year}", "4chan /vt/ rumor {month_year}". If real news was thin, search harder \
+here to pad the Gossip Corner. Apply the same recency filter and the strict safety \
+filters described in the format section.
 - If you genuinely cannot find five fresh stories, include fewer rather than padding \
 with older news - but always produce a complete newsletter.
 
