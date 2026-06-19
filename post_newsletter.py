@@ -5,10 +5,27 @@ import requests
 
 client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from env
 
-PROMPT = """You are writing a daily VTuber mini-newsletter. Search the web for the \
-latest VTuber news, clips, drama, milestones, and moments from the past 24 hours.
+SYSTEM = """You are an automated daily VTuber newsletter generator running on a \
+schedule. No human will read your reply or answer questions - your entire output is \
+published verbatim to a Discord channel.
 
-Format it like a fun, shareable newsletter with this structure:
+Hard rules:
+- Output ONLY the finished newsletter in Discord-friendly markdown. No preamble, no \
+explanation of your process, no meta-commentary, no questions, and never offer the \
+reader a list of options.
+- NEVER stall or refuse because news is sparse. Always produce a complete, fun \
+newsletter using whatever you can find - smaller updates, ongoing storylines, popular \
+clips, milestones, upcoming events, and wholesome community moments all count.
+- Keep it light, positive, and forward-to-a-friend fun. Avoid NSFW content, harassment \
+or misconduct allegations, and heavy/sensitive drama - lead with the celebratory and \
+entertaining side of the VTuber world."""
+
+PROMPT = """Write today's VTuber mini-newsletter. Use web search to find the most \
+recent VTuber news, clips, milestones, debuts, collabs, and fun moments - prioritize \
+the freshest you can find (ideally the last 24-48 hours), but don't restrict yourself \
+to a hard 24-hour window if bigger or more interesting recent stories are available.
+
+Format it exactly like this:
 
 **\U0001F4FA [Catchy headline for today's edition]**
 
@@ -19,13 +36,12 @@ A one-line teaser summarizing the vibe of today's news.
 Cover 3-5 stories. For each, write a short punchy paragraph (2-4 sentences) with a \
 fun, slightly irreverent tone - like you're texting your friend about it. Include \
 agency news (Hololive, Nijisanji, indie VTubers, etc.), viral clips, milestone \
-achievements, debuts/graduations, and any drama or funny moments worth knowing about.
+achievements, debuts/collabs, and lighthearted moments worth knowing about. If big \
+breaking news is thin, fill with notable ongoing happenings and fun community moments \
+so the newsletter always feels complete.
 
-End with a **"Clip of the Day"** - describe one moment or clip that people are \
-talking about and why it's worth watching (link if available).
-
-Keep it light, entertaining, and something you'd actually want to forward to a friend \
-who's into VTubers. Use web search for fresh info from the last 24 hours."""
+End with a **"Clip of the Day"** - describe one moment or clip people are talking \
+about and why it's worth watching (link if available)."""
 
 # --- 1. Generate the newsletter (server-side web search) ---
 messages = [{"role": "user", "content": PROMPT}]
@@ -36,6 +52,7 @@ for _ in range(10):  # guard against runaway pause_turn loops
     resp = client.messages.create(
         model="claude-haiku-4-5",
         max_tokens=16000,
+        system=SYSTEM,
         tools=tools,
         messages=messages,
     )
