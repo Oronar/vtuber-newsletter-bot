@@ -1,0 +1,23 @@
+name: VTuber Newsletter
+
+on:
+  schedule:
+    # 12:00 UTC = 8:00 AM EDT (NYC, summer). GitHub cron is fixed UTC with no DST
+    # awareness: when NYC falls back to EST in November this becomes 7:00 AM.
+    # To keep it at 8:00 AM year-round, switch to "0 13 * * *" for the EST months.
+    - cron: "0 12 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install anthropic requests
+      - run: python post_newsletter.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
