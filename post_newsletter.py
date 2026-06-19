@@ -12,9 +12,12 @@ schedule. No human will read your reply or answer questions - your entire output
 published verbatim to a Discord channel.
 
 Hard rules:
-- Output ONLY the finished newsletter in Discord-friendly markdown. No preamble, no \
-explanation of your process, no meta-commentary, no questions, and never offer the \
-reader a list of options.
+- Output ONLY the finished newsletter in Discord-friendly markdown. The VERY FIRST \
+characters of your reply must be the headline line that starts with "**" - no preamble, \
+no "Let me...", no "I now have enough...", no explanation of your process, no \
+meta-commentary, no questions, and never offer the reader a list of options. Do your \
+searching and thinking silently; emit text only once you are writing the final \
+newsletter.
 - NEVER stall or refuse because news is sparse. Always produce a complete, fun \
 newsletter using whatever you can find - smaller updates, ongoing storylines, popular \
 clips, milestones, upcoming events, and wholesome community moments all count.
@@ -55,19 +58,21 @@ month_year = now.strftime("%B %Y")
 user_msg = f"""Today's date is {today} (UTC). You are writing TODAY's edition.
 
 CRITICAL recency rules:
-- Every story MUST come from a web search result published within the last 7 days. \
-Do NOT use your own training/background knowledge for any specific event, name, date, \
-collab, or claim - if you did not just find it via search, do not include it.
+- Every story MUST come from a web search result published within the last 24 hours \
+(today or yesterday). Do NOT use your own training/background knowledge for any \
+specific event, name, date, collab, or claim - if you did not just find it via search, \
+do not include it.
 - Search broadly across the whole VTuber scene with date-qualified queries that \
 include the current month and year - cover many agencies and indies, not just one. \
 e.g. "VTuber news {month_year}", "Nijisanji {month_year}", "VShojo {month_year}", \
 "PRISM Project VTuber {month_year}", "Phase Connect {month_year}", "indie VTuber \
-{month_year}", "Hololive {month_year}", "VTuber debut {month_year}", "VTuber \
-milestone this week".
+{month_year}", "Hololive {month_year}", "VTuber debut {month_year}", "VTuber news \
+today".
 - Before including any story, check the result's publish date. If it is older than \
-about a week, discard it and search again. Anything from 2025 or earlier is too old.
-- If you genuinely cannot find five stories from the past week, include fewer rather \
-than padding with old news - but always produce a complete newsletter.
+about 24 hours, discard it and search again. Anything from before yesterday is too \
+old, and anything from 2025 or earlier is far too old.
+- If you genuinely cannot find five stories from the last 24 hours, include fewer \
+rather than padding with older news - but always produce a complete newsletter.
 
 {PROMPT}"""
 
@@ -98,6 +103,14 @@ print(f"search queries this turn: {queries}")
 text = "".join(b.text for b in resp.content if b.type == "text").strip()
 if not text:
     raise SystemExit("No newsletter text generated")
+
+# Safety net: drop any narration the model emitted before the newsletter itself.
+# The newsletter always opens with the headline line "**\U0001F4FA ...". If that
+# marker exists, discard everything before it.
+marker = text.find("**\U0001F4FA")
+if marker > 0:
+    print(f"Stripped {marker} chars of preamble before headline")
+    text = text[marker:]
 
 # --- 2. Post to Discord (emoji-safe, boundary-aware chunking) ---
 def chunk_message(body, limit=1900):
