@@ -1,0 +1,64 @@
+{
+  "kind": "weekly",
+  "label": "",
+  "issueNo": "001",
+  "issueDate": "07 JUL 2026",
+  "tagline": "The VTuber underground, decrypted weekly — and this week the whole scene packed its bags for Los Angeles.",
+  "inThisIssue": [
+    "The scene invades LA",
+    "Phase ALiAS breaks cover",
+    "Indie frequencies",
+    "The Tea Corner"
+  ],
+  "lead": {
+    "kicker": "TOP SIGNAL",
+    "title": "The whole scene descended on Los Angeles",
+    "body": "Anime Expo weekend (Jul 2–5) turned into the year's biggest VTuber convergence. hololive English packed the Shrine Auditorium for its 4th concert “Serendipity,” Ironmouse and CDawgVA headlined a chaos-arcade takeover, and a parallel festival across town put indies on a full 3D stage — all in the same 72 hours. If you blinked, you missed roughly four announcements and one viral hallway clip."
+  },
+  "stories": [
+    { "num": "01", "color": "#ff4fa3", "date": "04 JUL", "href": "https://vtubernewsdrop.com/anime-expo-2026-event-report/",
+      "title": "Ironmouse & CDawgVA run “Chaos Ascendant” at Anime Expo",
+      "blurb": "The duo's AX headline show leaned all the way into its name — a cosplay contest, an arcade takeover, and the kind of on-stage nonsense that only these two can survive. It was the loudest room at the convention, which at AX 2026 is saying something." },
+    { "num": "02", "color": "#36d6e7", "date": "04 JUL", "href": "https://hololivetoday.com/news-list/hololive-at-anime-expo-2026-booths-and-activities",
+      "title": "hololive English's “Serendipity” fills the Shrine for two nights",
+      "blurb": "EN's 4th full concert ran Jul 3–4 alongside Anime Expo, including the branch's first proper duo show. Two nights, a stacked setlist, and a merch line that reportedly wrapped the block — the EN live-show era is very much here." },
+    { "num": "03", "color": "#c6ff3d", "date": "04 JUL", "href": "https://www.moguravr.com/nijisanji-koshien-2026-directors-announced-en/",
+      "title": "Nijisanji Koshien draft kicks off the summer's pettiest sport",
+      "blurb": "The draft meeting streamed Jul 4 with ten director-managers named — Furen, Fuwa Minato, Himawari and friends — ahead of the main tournament Aug 8–11. It's amateur baseball as full-contact agency politics, and the group chats are already scheming." },
+    { "num": "04", "color": "#9b6bff", "date": "07 JUL", "href": "https://virtualyoutuber.fandom.com/wiki/Phase-Connect",
+      "title": "Phase Connect breaks cover on the “Phase ALiAS” generation",
+      "blurb": "The new wave, revealed late June, debuts Jul 9–10 with a secret-society theme that the teaser art is refusing to explain. Pre-debut sleuthing has been feral (see the Tea Corner). Two nights, fresh rigs, and a fanbase already picking oshis sight-unseen." },
+    { "num": "05", "color": "#ff4fa3", "date": "05 JUL", "href": "https://vtubernewsdrop.com/2026-vtuber-industry-forecast/",
+      "title": "The full-3D arms race is quietly reshaping the mid-tier",
+      "blurb": "Agencies like Luminara are building in-house motion-capture studios, and the 3D avatar segment is now the fastest-growing slice of the market. The upshot: a full-body 3D reveal is fast becoming a mid-year expectation, not a milestone flex." },
+    { "num": "06", "color": "#36d6e7", "date": "06 JUL", "href": "https://www.intelmarketresearch.com/vtuber-market-21856",
+      "title": "State of the scene: $3B market, 45 talents past a million",
+      "blurb": "Fresh figures peg the global VTuber market around $3.13B in 2026, with hololive counting 45 active members over a million subs and Nijisanji managing 196 livers across its branches. The scene got big; the drama, thankfully, stayed the same size." }
+  ],
+  "indieSubhead": "NO AGENCY, NO PROBLEM — NEWS FROM THE SELF-MADE CORNER OF THE SCENE",
+  "indies": [
+    { "num": "01", "color": "#36d6e7", "date": "04 JUL", "href": "https://www.billboard.com/music/music-news/fantastic-reality-event-mixed-reality-3d-matara-kan-kson-1236227190/",
+      "title": "Dokibird headlines Fantastic Reality's “Rewind Time” matinee",
+      "blurb": "The mixed-reality 3D festival ran Jul 2–4 at the Vermont Hollywood, with Dokibird curating and headlining her own day-three concert. Proof that an unsigned name can now book a real venue and fill it — no agency logo required." },
+    { "num": "02", "color": "#ff4fa3", "date": "02 JUL", "href": "https://www.billboard.com/music/music-news/fantastic-reality-event-mixed-reality-3d-matara-kan-kson-1236227190/",
+      "title": "“Found Futures” debuts Virtual Signal alongside kson & Lilypichu",
+      "blurb": "The festival's opening night paired Matara Kan, kson and Lilypichu with the live debut of a new act, Virtual Signal. A slick, fully mixed-reality showcase that felt less like an indie side-event and more like a statement." },
+    { "num": "03", "color": "#c6ff3d", "date": "05 JUL", "href": "https://virtualyoutuber.fandom.com/wiki/PRISM_Project",
+      "title": "A shuttered agency's characters start finding new homes",
+      "blurb": "Word surfaced that a batch of ex-Gen designs from a long-closed agency are being handed off / sold to their talents, clearing the way for reincarnations under fresh indie banners. Somewhere, a dozen model-spotting detectives just cracked their knuckles." }
+  ],
+  "onAirSubhead": "NOTABLE SLOTS WORTH CLEARING YOUR CALENDAR FOR · ALL TIMES LOCAL-ISH",
+  "onAir": [
+    { "when": "THU · 09 JUL", "title": "Phase ALiAS debuts", "desc": "Phase Connect's new generation goes live over two nights", "tag": "★ DEBUT", "tagColor": "#ff4fa3" },
+    { "when": "TUE · 21 JUL", "title": "hololive night: Taiwan", "desc": "returns to the Taipei Dome for two nights", "tag": "EVENT", "tagColor": "#8b90a8" },
+    { "when": "THU · 23 JUL", "title": "hololive Dreams", "desc": "rhythm RPG launches globally with 150+ songs", "tag": "◆ DROP", "tagColor": "#c6ff3d" },
+    { "when": "WED · 29 JUL", "title": "Nijisanji solo-live season", "desc": "Kaida Haru, Lauren Iroas & Kanae headline back-to-back one-mans", "tag": "EVENT", "tagColor": "#8b90a8" },
+    { "when": "SAT · 08 AUG", "title": "Nijisanji Koshien", "desc": "the baseball bloodsport returns for three days", "tag": "EVENT", "tagColor": "#8b90a8" }
+  ],
+  "tea": [
+    { "color": "#ff4fa3", "text": "Word on /vt/ is at least one incoming Phase ALiAS member is a returning indie in a new coat of paint — the “I'd know that laugh anywhere” threads are already hundreds of posts deep. Management's only response so far has been to post the teaser again." },
+    { "color": "#36d6e7", "text": "The rumor mill says that “characters going to new homes” from a certain closed agency means a few beloved ex-Gen models are about to resurface under fresh indie names. Reincarnation-spotting season is officially open." },
+    { "color": "#c6ff3d", "text": "Chatter insists a couple of the AX hallway hangs quietly turned into planning sessions for a surprise cross-agency 3D collab before summer's out. Allegedly the group chat is, and this is a direct quote, “feral.”" }
+  ],
+  "footerNote": "Next signal hits Sunday. Until then — hydrate, touch grass between streams, and don't reply-guy the talents."
+}

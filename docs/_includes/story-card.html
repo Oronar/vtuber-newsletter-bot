@@ -1,0 +1,13 @@
+<!-- Numbered story card. Shared by THE DISPATCH and INDIE FREQUENCIES.
+     Include it with an "item" param bound to one story/indie object. -->
+<article style="display:flex;gap:22px;padding:22px 0;border-top:1px solid #23263a">
+  <div style="font-family:'Chakra Petch';font-weight:700;font-size:22px;color:{{ include.item.color }};width:34px;flex:none;line-height:1.1">{{ include.item.num }}</div>
+  <div>
+    <h3 style="font-family:'Chakra Petch';font-weight:700;font-size:24px;line-height:1.1"><a href="{{ include.item.href }}" class="story-link" style="color:inherit;text-decoration:none;border-bottom:1px solid transparent">{{ include.item.title }}</a></h3>
+    <p style="font-size:15px;line-height:1.6;color:#aab0cc;margin-top:7px;text-wrap:pretty">{{ include.item.blurb }}</p>
+    <div style="display:flex;align-items:center;gap:14px;font-family:'JetBrains Mono';font-size:10px;letter-spacing:.08em;color:#6b7090;margin-top:11px">
+      <span>{{ include.item.date }}</span>
+      <a href="{{ include.item.href }}" class="read-link" style="color:#36d6e7;text-decoration:none;border-bottom:1px solid rgba(54,214,231,.4)">READ →</a>
+    </div>
+  </div>
+</article>

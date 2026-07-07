@@ -1,0 +1,32 @@
+/* SignalBoost — behavior/state CSS the inline styles can't express.
+   The visual design lives in inline styles on the markup (translated from the
+   Claude-Design v2 component); this file only carries hover, the spoiler toggle,
+   and responsive tweaks. */
+
+/* Story link hover — replaces the design's Claude-specific style-hover attrs.
+   !important because it must beat the element's inline base styles. */
+.story-link { transition: color .12s ease, border-color .12s ease; }
+.story-link:hover { color: #36d6e7 !important; border-bottom: 1px solid #36d6e7 !important; }
+.read-link:hover { border-bottom: 1px solid #36d6e7 !important; }
+
+/* THE TEA CORNER — CSS-only spoiler toggle (no JavaScript).
+   Default = frost shown; clicking the frost checks the hidden box and decrypts. */
+.tea-frost-toggle {
+  position: absolute; width: 1px; height: 1px; margin: -1px;
+  opacity: 0; pointer-events: none;
+}
+.tea-overlay {
+  position: absolute; inset: 0; z-index: 5;
+  background: rgba(12, 13, 20, .62);
+  backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  text-align: center; padding: 20px; cursor: pointer;
+}
+#tea-frost:checked ~ .tea-overlay { display: none; }
+
+/* Narrow screens */
+@media (max-width: 640px) {
+  .sb-masthead   { font-size: 44px !important; }
+  .sb-lead-title { font-size: 34px !important; }
+  .sb-wrap       { padding-left: 18px !important; padding-right: 18px !important; }
+}
