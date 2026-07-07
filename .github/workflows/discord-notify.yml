@@ -1,0 +1,57 @@
+name: Notify Discord of new issue
+
+# Fires when a new issue's data lands on main (the /new-issue weekly run pushes
+# docs/_data/issues/NNN.json), and posts a short message linking that issue's
+# PERMANENT url — never the newsletter body. Add "[skip-discord]" to a commit
+# message to suppress it (used for infra/refactor pushes). Can also be run
+# manually from the Actions tab to test the webhook.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "docs/_data/issues/**"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  notify:
+    if: ${{ github.event_name == 'workflow_dispatch' || !contains(github.event.head_commit.message, '[skip-discord]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Post latest issue link to Discord
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          python3 - <<'PY'
+          import glob, json, os, sys, urllib.request
+
+          webhook = os.environ.get("DISCORD_WEBHOOK", "").strip()
+          if not webhook:
+              print("DISCORD_WEBHOOK not set; skipping.")
+              sys.exit(0)
+
+          files = sorted(glob.glob("docs/_data/issues/*.json"))
+          if not files:
+              print("No issues found; skipping.")
+              sys.exit(0)
+
+          latest = files[-1]                       # ids are zero-padded -> lexical == numeric
+          num = os.path.splitext(os.path.basename(latest))[0]
+          data = json.load(open(latest, encoding="utf-8"))
+          title = data.get("lead", {}).get("title", "New issue")
+          url = f"https://oronar.github.io/vtuber-newsletter-bot/issues/{num}/"
+
+          content = f"\U0001F4FA **SIGNAL//BOOST — Issue {num}** is live\n{title}\n{url}"
+          body = json.dumps({"content": content}).encode("utf-8")
+          req = urllib.request.Request(
+              webhook, data=body,
+              headers={"Content-Type": "application/json",
+                       "User-Agent": "signalboost-notify/1.0"},
+          )
+          with urllib.request.urlopen(req, timeout=30) as r:
+              print("Posted issue", num, "->", r.status)
+          PY
