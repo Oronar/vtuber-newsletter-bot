@@ -99,7 +99,8 @@ Every string is plain text (no markdown). Use real source URLs for `href`.
     { "color": "#ff4fa3", "text": "…" }
     // cycle color through: #ff4fa3, #36d6e7, #c6ff3d
   ],
-  "footerNote": "…"            // sign-off; real, no "fictional" disclaimer
+  "footerNote": "…"            // sign-off; the newsletter drops Monday mornings, so nod
+                               // to the next Monday signal; real, no "fictional" disclaimer
 }
 ```
 
