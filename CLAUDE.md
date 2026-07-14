@@ -68,9 +68,26 @@ There is **no local Ruby/Jekyll**. Preview with the emulator built during setup 
 infra/refactor commits — weekly commits must not include it). It can also be run manually
 from the **Actions** tab (`workflow_dispatch`) to test the webhook.
 
-Intended cadence: **weekly**, via a `/schedule` cloud routine that runs `/new-issue weekly`
-(not yet set up). Cloud/GitHub cron is fixed UTC with no DST — e.g. Sun 8am ET is
-`0 12 * * 0` in summer (EDT), `0 13 * * 0` after NYC's November fallback (EST).
+Intended cadence: **weekly**, via a `/schedule` cloud **routine** (`SIGNAL//BOOST weekly`,
+`trig_019bXS2oSSR8UfPQAMvrcB9Q`, cron `0 9 * * 1` = Mon 09:00 UTC / 5am EDT). **A routine
+cannot push to `main`** — Claude Code routines may only push to `claude/*` branches (a push
+to `main` 403s; this is *not* a missing-write-access problem, and the UI has no toggle to
+lift it). So the pipeline is:
+
+1. The routine runs the skill in `weekly` mode but its step 6 pushes the new issue on a
+   `claude/issue-NNN` branch (**not** `main`).
+2. `.github/workflows/publish-issue.yml` fires on that `claude/**` push, opens a PR, and
+   **squash-merges it into `main`**. That merge redeploys Pages and triggers
+   `discord-notify.yml`. It merges with a **PAT** (`AUTOMERGE_TOKEN` secret, repo-scoped:
+   Contents + Pull requests read/write) on purpose — a `GITHUB_TOKEN` merge would *not*
+   trigger `discord-notify.yml` (pushes by `GITHUB_TOKEN` don't start other workflows).
+
+Requirements: run `/web-setup` locally once so cloud runs can push at all (syncs your `gh`
+token, which has `repo` scope), and keep the `AUTOMERGE_TOKEN` secret valid. Cloud commits
+are **unsigned** (signing keys never enter the sandbox) and authored as the connected GitHub
+identity — expected, not a failure. The local `/new-issue weekly` path still pushes straight
+to `main` (SKILL.md) since a local checkout has full write; only the routine takes the branch
+detour.
 
 ## Legacy bot (reference)
 
