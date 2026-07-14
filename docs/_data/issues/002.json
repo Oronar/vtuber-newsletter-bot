@@ -1,0 +1,148 @@
+{
+  "kind": "weekly",
+  "label": "",
+  "issueNo": "002",
+  "issueDate": "14 JUL 2026",
+  "tagline": "The scene holds its breath: a mobile game drops in nine days, a baseball arc heats up, and the indie half of VTubing just crossed the finish line first.",
+  "inThisIssue": [
+    "hololive Dreams pre-launch fever",
+    "Phase Con aftermath, by the numbers",
+    "Koshien chaos loading",
+    "The Tea Corner"
+  ],
+  "lead": {
+    "kicker": "TOP SIGNAL",
+    "title": "hololive Dreams is nine days away and already has 1.3 million people on the waitlist",
+    "body": "The first major hololive mobile game — a theme-park rhythm RPG with 150-plus songs across iOS, Android, and Steam — launches July 23 with a pre-registration number that hit 1.3 million before the loading screen even existed. Cover Corp and QualiArts built this over multiple years and it shows: full cross-save, 50-plus playable talent cards, original tracks and covers in one catalogue. The VTuber gaming market hasn't had a genuine tentpole title in a while. This might be it."
+  },
+  "stories": [
+    {
+      "num": "01",
+      "color": "#ff4fa3",
+      "date": "12 JUL",
+      "href": "https://ogiuemaniax.com/2026/07/12/pain-and-pleasure-the-phase-con-concerts/",
+      "title": "Phase Con 2026 in review: three concerts, a Gen-1 anniversary, and some notes on the sound system",
+      "blurb": "A week-late verdict on Phase Connect's Burlingame convention landed July 12, and the consensus is: the concerts were genuinely good, Grand Passage and Bon Voyage hit their marks, and Gen 1's fifth-anniversary show (Fifth Orbit) was the emotional peak of the weekend. The speakers, however, were not the emotional peak — a persistent pink color filter on the main screens required a mid-show reset. Memorable for multiple reasons."
+    },
+    {
+      "num": "02",
+      "color": "#36d6e7",
+      "date": "09 JUL",
+      "href": "https://www.anycolor.co.jp/en/news/2smphcx66mk3",
+      "title": "Nijisanji EN drops “Under the Night Sky Voice” with fifteen livers on the roster",
+      "blurb": "A new seasonal voice pack collection landed July 9 featuring fifteen NIJISANJI EN livers — Elira Pendora, Scarle Yonaguni, Uki Violeta, and a cluster of newer talents including Kaelix Debonair, Klara Charmwood, and Zeal Ginjoka. Key visual set buyers also get smartphone and desktop wallpapers. A solid merch drop heading into the back half of summer."
+    },
+    {
+      "num": "03",
+      "color": "#c6ff3d",
+      "date": "07 JUL",
+      "href": "https://www.moguravr.com/nijisanji-koshien-2026-directors-announced-en/",
+      "title": "Nijisanji Koshien 2026: ten coaches, a month of Power Pros, and the pettiest sport in streaming is back",
+      "blurb": "Training runs July 5 through August 2 with ten directors — Furen E. Lustario, Minato Fuwa, Himawari Honma, Lauren Iroas, Sara Hoshikawa, and five others — grinding Power Pros before the main 3D tournament August 8-9-11. The pre-season group chats are already producing content at an unsafe rate. Maimoto Keisuke and Tenkai Tsukasa are organizing this year's chaos."
+    },
+    {
+      "num": "04",
+      "color": "#9b6bff",
+      "date": "11 JUL",
+      "href": "https://x.com/PhaseConnect?lang=en",
+      "title": "Phase ALiAS turns four: anniversary streams reminded everyone why this gen has legs",
+      "blurb": "Over two nights July 11-12, the full Phase ALiAS lineup ran anniversary celebration streams — Rie, Airi, Erina on day one; Remilia, Panko, Shiina on day two — pulling strong concurrent numbers for mid-week slots. Four years in and the parasocial gravitational pull has not weakened. A Second Shot performance capped both nights cleanly."
+    },
+    {
+      "num": "05",
+      "color": "#ff4fa3",
+      "date": "05 JUL",
+      "href": "https://www.siliconera.com/six-japanese-holostars-vtubers-will-graduate-in-june-and-july/",
+      "title": "Kageyama Shien's farewell closes the Holostars JP chapter — six out, six remain",
+      "blurb": "The final graduation in Cover's Holostars JP restructuring wave was Shien's July 5 farewell stream, capping a run that began June 8 with Hanasaki Miyabi and Kishido Temma. Cover announced in spring it would consolidate resources around the Hololive banner; Kanade Izuru, Astel Leda, Yukoku Roberu, and three others continue. The community response ranged from heartbroken to cautiously watching for what comes next."
+    },
+    {
+      "num": "06",
+      "color": "#36d6e7",
+      "date": "10 JUL",
+      "href": "https://www.sanjose.org/events/offkai-expo-gen-5",
+      "title": "OffKai Expo Gen 5 is two weeks out — San Jose McEnery, July 24-26, three days of the whole scene",
+      "blurb": "North America's flagship VTuber convention hits its fifth edition at San Jose McEnery Convention Center July 24-26. The Gen 5 lineup stretches from major-agency names to self-made independents: concerts, panels, a vendor hall, meet-and-greets, and enough content to fill a weekend without touching your phone. At-door passes still available."
+    }
+  ],
+  "indieSubhead": "NO AGENCY, NO PROBLEM — NEWS FROM THE SELF-MADE CORNER OF THE SCENE",
+  "indies": [
+    {
+      "num": "01",
+      "color": "#36d6e7",
+      "date": "08 JUL",
+      "href": "https://vtubernewsdrop.com/2026-vtuber-industry-forecast/",
+      "title": "Q1 2026: indie VTubers just crossed 50% of global watch time, and nobody threw a party",
+      "blurb": "The numbers are in: independent VTubers accounted for 50.4% of all VTuber viewing hours globally in Q1 2026 — the first time the self-funded corner of the scene has outnumbered the agencies in aggregate. Dokibird, Filian, Shylily, Chibidoki, Mint Fantome — the names at the top of indie rankings are pulling numbers that would embarrass mid-tier corpo slots."
+    },
+    {
+      "num": "02",
+      "color": "#ff4fa3",
+      "date": "07 JUL",
+      "href": "https://vtubernewsdrop.com/2026-vtuber-industry-forecast/",
+      "title": "Beastiez and Densetsu.EXE are what happens when a major VTuber org dissolves gracefully",
+      "blurb": "Two units that rose directly from VShojo's 2025 wind-down — Beastiez and Densetsu.EXE — have been finding their footing as true independents and the answer so far is: pretty well. The talent came out of the closure with audiences intact and the creative freedom to structure things on their own terms. If you thought VShojo closing meant those names disappeared, you missed an entire rebrand season."
+    },
+    {
+      "num": "03",
+      "color": "#c6ff3d",
+      "date": "10 JUL",
+      "href": "https://offkaiexpo.com/",
+      "title": "kson, Henya, and Avallum headline the indie tier at OffKai Expo Gen 5",
+      "blurb": "Among the confirmed names for OffKai Gen 5 programming are kson, Henya, and Avallum — a solid cross-section of the solo and post-agency indie world. For a convention that started as a pure grassroots VTuber project, booking this tier of name in year five is not a small thing. San Jose, July 24-26."
+    }
+  ],
+  "onAirSubhead": "NOTABLE SLOTS WORTH CLEARING YOUR CALENDAR FOR · ALL TIMES LOCAL-ISH",
+  "onAir": [
+    {
+      "when": "TUE · 21 JUL",
+      "title": "hololive night: Taiwan",
+      "desc": "Marine, Kiara, Baelz, Koyori, and Vivi return to Taipei Dome for two nights",
+      "tag": "EVENT",
+      "tagColor": "#8b90a8"
+    },
+    {
+      "when": "THU · 23 JUL",
+      "title": "hololive Dreams global launch",
+      "desc": "iOS, Android, and Steam simultaneously — 150+ songs, 50+ playable cards, free-to-play",
+      "tag": "◆ DROP",
+      "tagColor": "#c6ff3d"
+    },
+    {
+      "when": "FRI · 24 JUL",
+      "title": "OffKai Expo Gen 5 opens",
+      "desc": "Three days of VTuber convention energy in San Jose — kson, Henya, Avallum, and the full scene",
+      "tag": "EVENT",
+      "tagColor": "#8b90a8"
+    },
+    {
+      "when": "WED · 29 JUL",
+      "title": "Nijisanji solo-live season",
+      "desc": "Kaida Haru, Lauren Iroas, and Kanae headline back-to-back one-man shows",
+      "tag": "EVENT",
+      "tagColor": "#8b90a8"
+    },
+    {
+      "when": "SAT · 08 AUG",
+      "title": "Nijisanji Koshien main tournament",
+      "desc": "Ten coaches, three days, and the most elaborate fake-baseball arc of the streaming calendar",
+      "tag": "EVENT",
+      "tagColor": "#8b90a8"
+    }
+  ],
+  "tea": [
+    {
+      "color": "#ff4fa3",
+      "text": "Word on /vt/ is that at least two of the recently graduated Holostars JP members already have indie comeback plans well past the 'maybe someday' stage — clipped voice samples from unrelated streams are circulating with conviction and the threads have hit hundreds of replies. Nobody can confirm anything but the timing on the 'new account spotted' posts is suspiciously tight."
+    },
+    {
+      "color": "#36d6e7",
+      "text": "The rumor mill says Nijisanji Koshien coaches are already leaking training data to each other — allegedly a private group chat exists with rival directors coordinating, and management is either oblivious or has decided looking the other way is more entertaining than enforcement. If true, it is either the most elaborate meta-strategy ever fielded or the funniest thing to happen in fake VTuber baseball history."
+    },
+    {
+      "color": "#c6ff3d",
+      "text": "Chatter around OffKai Gen 5 panel signups claims a cross-agency collab was pitched for the programming that would need, in someone's words, 'a waiver and a prayer' to clear. Details are thin. Enthusiasm is thick. The guesses on /vt/ range from genuinely plausible to medically inadvisable optimism, and we love every single post."
+    }
+  ],
+  "footerNote": "Next signal drops Monday morning — 21 July. Dreams launches Thursday, OffKai opens Friday, and somewhere a Koshien coach is rage-quitting Power Pros at 2am. We'll see you there."
+}
