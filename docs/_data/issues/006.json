@@ -1,0 +1,145 @@
+{
+  "kind": "weekly",
+  "label": "",
+  "issueNo": "006",
+  "issueDate": "10 AUG 2026",
+  "tagline": "Koshien 2026 played its first two tournament days this weekend and the 3D championship is tomorrow, BY THE BEAT's Japanese single hit its one-week mark, hololive pops up in Taiwan, and Filian's June 1 countdown ran out without a comeback.",
+  "inThisIssue": [
+    "Koshien 2026: two days down, 3D championship tomorrow Aug 11",
+    "BY THE BEAT 'MERORI (For Me)' — one week in the world",
+    "Filian: countdown expired, debut still delayed",
+    "The Tea Corner"
+  ],
+  "lead": {
+    "kicker": "TOP SIGNAL",
+    "title": "Nijisanji Koshien 2026 has played two of its three tournament days — ten coaches, locked rosters, and the 3D championship is tomorrow",
+    "body": "Nijisanji Koshien 2026 has been live for two days. The main tournament opened August 8 with ten coaches who spent two months building Power Pros rosters from scratch — Rito Usami, Kyoran Meroko, Koyanagi Ro, Ness Sakaki, Suzuna Nanase, Furen E. Lustario, Minato Fuwa, Sara Hoshikawa, Himawari Honma, and Iroas Lauren — and the field has been narrowing across back-to-back days of 3D baseball. The training arc that ran July 5 through August 2 set the stage: months of roster decisions, stat grinding, and strategy debates, all feeding into a three-day 3D tournament that the Nijisanji fandom waits for every year. Two days of matches are in the books. The championship match, Day 3, streams tomorrow — August 11. The bracket is set. The discourse about which coaches built right and which ones didn't has been running on every relevant thread since the first pitch. Tournament organizers Maimoto Keisuke and Tenkai Tsukasa have been running this event long enough to know that Koshien is the moment when the entire Nijisanji calendar compresses into a single result. That result arrives in about 24 hours."
+  },
+  "stories": [
+    {
+      "num": "01",
+      "color": "#ff4fa3",
+      "date": "05 AUG",
+      "href": "https://www.nijisanji.jp/en/news/9ofiw-vqio2d",
+      "title": "BY THE BEAT 'MERORI (For Me)' drops August 5 — the Japanese-language cut of the summer single is now in the world alongside the original",
+      "blurb": "NIJISANJI EN's four-man unit BY THE BEAT — Zeal Ginjoka, Freodore, Seible, and Kaelix Debonair — released 'MERORI (For Me)', the Japanese-language version of their July 31 summer single, on August 5 via Virgin Music. The original 'MERORI' was built around fan-submitted lines for a summer night pool party scenario and produced by MUTEKI DEAD SNAKE. 'For Me' is the domestic counterpart, landing five days later with the Japanese market in mind. One week into the full MERORI release cycle, both versions are now live and available. The unit has been transparent about a major-label debut target in 2027, and this double-cut rollout is the strategy taking shape: English audiences first, then the Japanese version to close the loop."
+    },
+    {
+      "num": "02",
+      "color": "#36d6e7",
+      "date": "06 AUG",
+      "href": "https://hololive.hololivepro.com/en/news/20260806-01-226/",
+      "title": "hololive Midsummer Kenting Travel Diary pop-up opens August 11 at Top City Taichung — six talents, Taiwan debut",
+      "blurb": "COVER Corp announced a pop-up store collaboration with NoonX at Top City Taichung running August 11 through September 9, 2026. The featured talents are Shirakami Fubuki, Houshou Marine, Tsunomaki Watame, Kobo Kanaeru, Hakos Baelz, and Juufuutei Raden — six members across multiple hololive branches, themed around a summer resort travel concept. Exclusive merchandise, collectible experiences, and interactive activities at the venue. This is hololive's second Taiwan retail push in 2026 after the Spring Travel Diary pop-up in July. The hololive pop-up footprint in Asia has been expanding quietly and consistently all year. The summer version opens tomorrow."
+    },
+    {
+      "num": "03",
+      "color": "#c6ff3d",
+      "date": "07 AUG",
+      "href": "https://hololivedream.wiki/events/brand-new-summer/",
+      "title": "hololive Dreams 'Synchro Summer Sparkle' opens August 7 — miComet gacha and Towa's 'FACT' lands August 8",
+      "blurb": "hololive Dreams' 'Synchro Summer Sparkle' event went live August 7 and runs through August 15. The headline pull is the miComet gacha: Beach Sparkle Shot Miko and Water-Gun Arpeggio Suisei as the five-star units, with park and live outfit variants. The Extra Song Campaign added Sugar Rush, Kyun Kyun, and GHOST on August 7; Tokoyami Towa's 'FACT' joined the catalog August 8. The rhythm-RPG launched July 23 with 1.5 million pre-registrations and has been running back-to-back events since day one. Three weeks in, the event cadence is aggressive and the miComet banner is exactly the pull the community has been waiting for."
+    },
+    {
+      "num": "04",
+      "color": "#9b6bff",
+      "date": "04 AUG",
+      "href": "https://gaminghq.eu/2026/08/04/missing-vtuber-filian/",
+      "title": "Filian's June 1 countdown expired with nothing — 'DEBUT DELAYED' now sits on the X account and fans are still searching",
+      "blurb": "The filianislost.com countdown timer reached zero on June 1, 2026 at 5PM ET and no announcement came. No debut, no statement, no Phase 2. As of August 4, the associated X account reads 'DEBUT DELAYED' — the clearest signal yet that whatever Phase 1 was building toward got pushed back. Filian last streamed December 7, 2025, wiped her content across YouTube, Twitch, TikTok, and Discord in May 2026, and has not returned. Eight months of silence, one countdown that came and went, and a fan community still treating every cryptic detail as a clue. Whatever the plan is, it has slipped at least once already."
+    },
+    {
+      "num": "05",
+      "color": "#ff4fa3",
+      "date": "08 AUG",
+      "href": "https://www.portalgraph.com/en",
+      "title": "Portal ∞ Cafe Vol.0 ran August 8-9 in Osaka — indie VTubers, 3D projection technology, and chef-supervised collab food",
+      "blurb": "Portal ∞ Cafe Vol.0, a next-generation VTuber meetup using Portalgraph's immersive 3D projection system, ran August 8 and 9 in Osaka. The technology projects real-time VR spaces into physical environments, letting talent appear in-person as 3D avatars without the traditional physical stage infrastructure. Chef-supervised collab menu items completed the experience. Vol.0 positions itself as a proof-of-concept for a new kind of VTuber IRL event — one that doesn't require overseas travel or physical presence but still creates a shared room between streamer and audience. The 'Vol.0' designation signals more volumes are planned."
+    },
+    {
+      "num": "06",
+      "color": "#36d6e7",
+      "date": "01 AUG",
+      "href": "https://gameland.gg/anya-nyabyss-graduating-whats-next-vtuber/",
+      "title": "Phase Saga is now four — Anya Nyabyss's August 1 exit leaves the fourth-gen group at two-thirds of its original headcount",
+      "blurb": "Phase Connect's Phase Saga generation launched with six members in October 2025: Malice Evermore, Nitya Nil, Wilhelmina Frost, Bibi Biscuit, Anya Nyabyss, and Sinon Sinfonia. In 2026 it has lost two. Kaminari Clara departed in February citing management disagreements. Anya Nyabyss graduated August 1, citing the same, at 196 days — the shortest tenure in Phase Connect's history. Four members remain and are actively streaming. Phase Connect has not announced plans for a replacement wave. The Saga generation hasn't reached its first anniversary yet and has already been reshaped twice. Whether Phase Connect moves toward a new generation announcement before October or stabilizes with what's left is the question occupying every Phase Connect thread this week."
+    }
+  ],
+  "indieSubhead": "NO AGENCY, NO PROBLEM — NEWS FROM THE SELF-MADE CORNER OF THE SCENE",
+  "indies": [
+    {
+      "num": "01",
+      "color": "#ff4fa3",
+      "date": "04 AUG",
+      "href": "https://gaminghq.eu/2026/08/04/missing-vtuber-filian/",
+      "title": "Filian's planned return hit a wall — the June 1 deadline passed, 'DEBUT DELAYED' is the new branding, and the mystery has no end date",
+      "blurb": "Before December 2025, Filian was one of the biggest names in English VTubing: 3 million YouTube subscribers, 1.3 million on Twitch, a VRChat-native content model, and a community called Snackers with real momentum. Since December 7 she has been entirely absent. The May 2026 content wipe across all platforms, the filianislost.com countdown, the 'PHASE 1' framing and email signup, the DoKomi spray paint wall appearance in late May — all of it built toward a June 1 reveal that didn't happen. The X account now reads 'DEBUT DELAYED'. GamingHQ's August 4 update confirms fans are still searching for answers. Eight months is a long runway for something that hasn't launched yet."
+    },
+    {
+      "num": "02",
+      "color": "#36d6e7",
+      "date": "08 AUG",
+      "href": "https://www.portalgraph.com/en",
+      "title": "Portal ∞ Cafe Vol.0 in Osaka: proof that the indie IRL event format is evolving beyond autograph tables and panel rooms",
+      "blurb": "Saturday and Sunday's Portal ∞ Cafe Vol.0 in Osaka represents a different design philosophy for VTuber live events. Rather than flying talent in and building a traditional stage, Portalgraph's system projects VR environments into physical space in real time. For indie VTubers with limited travel budgets and globally distributed fan bases, the format removes barriers that agency events take for granted. Vol.0 is a prototype — if it produces strong enough audience response, the technology becomes available infrastructure that independent talent can use without agency-scale logistics. That's the piece to watch as Vol.1 gets planned."
+    },
+    {
+      "num": "03",
+      "color": "#c6ff3d",
+      "date": "01 AUG",
+      "href": "https://vchavcha.com/en/free-resources/global-vtuber-subscriber-ranking/",
+      "title": "Independent VTubers crossed 50% of global watch time in Q1 2026 — the first time indie has held the majority over agency-affiliated talent",
+      "blurb": "The August 2026 global VTuber subscriber rankings confirm what the Otakon and OffKai lineups already showed: the indie tier is no longer a tier. Independent and creator-led VTubers crossed 50.4% of global VTuber watch time in Q1 2026, marking the first time in the format's history that agency-affiliated talent doesn't hold the majority of audience attention. VShojo's 2025 closure and PRISM's 2024 shutdown moved some of English VTubing's most-watched names into the independent column. The numbers are measuring a reclassification of where the audience already was, not a new trend — the audience followed specific talent, not agency brands."
+    }
+  ],
+  "onAirSubhead": "NOTABLE SLOTS WORTH CLEARING YOUR CALENDAR FOR · ALL TIMES LOCAL-ISH",
+  "onAir": [
+    {
+      "when": "TUE · 11 AUG",
+      "title": "Nijisanji Koshien 2026 — Day 3 championship",
+      "desc": "The final day of the 3D Power Pros tournament; whoever survived two days of bracket matches settles it today — ten coaches, one trophy",
+      "tag": "EVENT",
+      "tagColor": "#8b90a8"
+    },
+    {
+      "when": "TUE · 11 AUG",
+      "title": "hololive Midsummer Kenting Travel Diary — pop-up store opens",
+      "desc": "NoonX collaboration launches at Top City Taichung; Fubuki, Marine, Watame, Kobo, Baelz, Raden; runs through September 9",
+      "tag": "EVENT",
+      "tagColor": "#8b90a8"
+    },
+    {
+      "when": "SAT · 15 AUG",
+      "title": "hololive Dreams 'Synchro Summer Sparkle' — last day of event",
+      "desc": "Final day to finish the miComet score challenge and claim event rewards; gacha banner runs two days longer through August 17",
+      "tag": "◆ DROP",
+      "tagColor": "#c6ff3d"
+    },
+    {
+      "when": "FRI · 21 AUG",
+      "title": "hololive SUPER KARAOKE PARTY at Anime NYC 2026",
+      "desc": "Kobo Kanaeru, Mori Calliope, Koseki Bijou, and Nerissa Ravencroft live at the Javits Center, 8pm ET; convention runs August 20-23",
+      "tag": "EVENT",
+      "tagColor": "#8b90a8"
+    }
+  ],
+  "tea": [
+    {
+      "color": "#ff4fa3",
+      "text": "Word on /vt/ is that the Koshien 2026 championship bracket was fully called by the threads before a single match played in the main tournament, and anyone who predicted wrong has since quietly deleted their post. What remains is a curated history where everyone had the right read. Day 3 is tomorrow and the prediction threads are treating it as a formality. They are very confident. This has never backfired before."
+    },
+    {
+      "color": "#36d6e7",
+      "text": "The rumor mill says Filian's 'DEBUT DELAYED' tag is the result of a sponsor partnership that fell apart before the June 1 launch, which would explain both the countdown setup and the silence afterward. Nobody has verified this. The competing theory is that 'PHASE 1' always meant something slow and deliberate and the delay is working as intended. Both camps have active thread champions and neither is updating their position regardless of new information. The X account still says 'DEBUT DELAYED.' That much is confirmed."
+    },
+    {
+      "color": "#c6ff3d",
+      "text": "Chatter in the Phase Connect threads has been split between 'they'll announce a Gen 5 before Saga's first anniversary in October' and 'they'll do nothing and let the four remaining members rebuild.' The timing problem is real: a generation that debuted with six members in October 2025 is turning one with four, having lost two to management disagreements in the same calendar year. Phase Connect's public response has been visible streaming support for the remaining Saga members but no roadmap. The theory that a new generation reveal is coming at Phase Con recap content has no confirmation, just a lot of thread votes."
+    },
+    {
+      "color": "#ff4fa3",
+      "text": "The BY THE BEAT shipping bracket threads have bifurcated since 'MERORI (For Me)' dropped August 5. The English 'MERORI' listeners and the Japanese-version fans have developed slightly different ship pair rankings based on each version's vocal mix, and /vt/ is now documenting the divergence with the same thoroughness previously reserved for Koshien coach tier lists. The unit management has not commented on this, which continues to be the correct call."
+    }
+  ],
+  "footerNote": "Next signal drops Monday, 17 August — the Koshien 2026 champion will be crowned tomorrow, the Anime NYC window opens August 20 with Kobo, Mori Calliope, Bijou, and Nerissa on a karaoke stage, and whatever Filian has been building will be one week further delayed. See you in a week."
+}
