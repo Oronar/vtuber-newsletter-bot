@@ -1,0 +1,144 @@
+{
+  "kind": "weekly",
+  "label": "",
+  "issueNo": "011",
+  "issueDate": "14 SEP 2026",
+  "tagline": "hololive drops its first TV anime, a new unit, and a full brand rebrand in a single stream — Suisei opens the arena chapter at K-Arena Yokohama, and Week 15 of the Filian countdown lands with zero resolution.",
+  "inThisIssue": [
+    "hololive's first TV anime confirmed: Studio KAI animating, title hint OdeHolo, full reveal September 23",
+    "ASOBI★MAWARI-TAI!: hololive's first new unit in two years — talent names TBA this month",
+    "Hoshimachi Suisei opens Once Upon a Stellar at K-Arena Yokohama — 20,000 seats, two nights done",
+    "The Tea Corner"
+  ],
+  "lead": {
+    "kicker": "TOP SIGNAL",
+    "title": "Five years in the making: hololive announces its first TV anime with Studio KAI — full title drops September 23, abbreviated hint is OdeHolo",
+    "body": "During the hololive Next premiere on September 7, 2026 — hololive's 9th anniversary — Cover Corporation officially announced its first television anime project. Animation production is handled by Studio KAI in partnership with Kadokawa Corporation. The abbreviated title released with the announcement is OdeHolo; the full title, story details, and key visual are embargoed until the OdeHolo Reveal Special on September 23 (National Holiday in Japan), airing at 8:00 PM JST. The reveal stream features Momosuzu Nene, Omaru Polka, Yukihana Lamy, Shishiro Botan, Shirakami Fubuki, and Ookami Mio as hosts — whether those six represent the central cast or are presenting the reveal has not been clarified. Cover's statement places the project at approximately five years in development, making it the longest-running unannounced Cover project at time of reveal. The hololive Next stream delivered six additional announcements in the same two-hour broadcast: the consolidation of all female branches (hololive JP, EN, ID, DEV_IS) into a single unified hololive brand, a refreshed logo, the debut of new unit ASOBI★MAWARI-TAI! (first new hololive unit in approximately two years — talent names and debut schedule TBA within September), the home streaming app hololive raku launching late September, the official 10th anniversary countdown website, and a global visual refresh across all platforms. Seven announcements in two hours. September 23 is nine days out."
+  },
+  "stories": [
+    {
+      "num": "01",
+      "color": "#ff4fa3",
+      "date": "08 SEP",
+      "href": "https://studio-stellar.zaiko.io/en/e/suisei-arena-2026",
+      "title": "Hoshimachi Suisei opens Once Upon a Stellar at K-Arena Yokohama: two nights at 20,000 capacity, three cities still ahead",
+      "blurb": "Hoshimachi Suisei performed the opening two nights of the Once Upon a Stellar arena tour at K-Arena Yokohama on September 8 and 9. K-Arena Yokohama holds 20,000 and is described as one of the world's largest dedicated music arenas. This is Suisei's first multi-city arena-only tour, announced in March 2026 alongside the formation of her personal management company Studio STELLAR. Yokohama is complete. Three dates remain: IG Arena Kobe (October 4-5), Dolphins Arena Nagoya (October 17-18), and Marine Messe Fukuoka Hall A (November 12), with the Fukuoka finale receiving a live cinema broadcast across 51 Japanese theaters and overseas screenings in Taipei, Hong Kong, Macau, Seoul, Singapore, Kuala Lumpur, Jakarta, and Melbourne. The scale of the Yokohama opening — two nights, 20,000 capacity — sits in a tier that very few VTubers have reached. The back half of the tour runs through November."
+    },
+    {
+      "num": "02",
+      "color": "#36d6e7",
+      "date": "08 SEP",
+      "href": "https://www.nijisanji.jp/en/events",
+      "title": "Nijisanji EN's Immersion-Focused Male Audition enters the shortlist window this week — contact emails due by end of September, nijiFAN Talk vol.6 lands September 26",
+      "blurb": "Nijisanji EN's Immersion-Focused: Male VTuber Audition closed applications on August 29. The announcement stated shortlisted applicants would be contacted via email within approximately one month — placing the contact window between September 14 and late September. The phrase 'immersion-focused' is new terminology for a NIJISANJI EN wave: the community debate about whether it means lore integration, an ARG-style debut, or a pre-built world setting that the talent steps into is the most active non-drama Nijisanji thread on /vt/ this week. nijiFAN Talk vol.6 is also confirmed for September 26-27 and October 3-4, a community event format that has historically coincided with new wave activity. No shortlist confirmations have been made public by ANYCOLOR. The window is open now."
+    },
+    {
+      "num": "03",
+      "color": "#c6ff3d",
+      "date": "09 SEP",
+      "href": "https://www.anycolor.co.jp/en/news/gw21dgwp11p",
+      "title": "BY THE BEAT six months into the Universal Music deal: MERORI is out, the 2027 major-label debut window is four months away, and ANYCOLOR hasn't updated the timeline",
+      "blurb": "BY THE BEAT — NIJISANJI EN Livers Zeal Ginjoka, Freodore, Seible, and Kaelix Debonair — released their second digital single MERORI on July 31, with the Japanese version MERORI (For Me) following August 5. The March 2026 announcement of a major label development deal with Universal Music / Virgin Music Japan pointed to a 2027 debut push. Six-to-twelve months from that March announcement puts the window between September 2026 and March 2027 — and no milestone update has come from ANYCOLOR since March. The 'development gap is normal' camp notes that label rollouts routinely run quietly for a year before a debut campaign surfaces. The 'soft announcement' camp says the 2027 timeline was always hedged. The English MERORI holds a sustained view count lead over the Japanese release. Both camps cite that as evidence for their position. Four months to January."
+    },
+    {
+      "num": "04",
+      "color": "#9b6bff",
+      "date": "14 SEP",
+      "href": "https://x.com/Filian_VT1",
+      "title": "Week 15: Filian is still DEBUT DELAYED — Phase Saga turns one in six weeks and the October 25 countdown is the board's most active thread",
+      "blurb": "September 14 marks fifteen weeks since the @Filian_VT1 countdown reached zero. The X account still reads DEBUT DELAYED. No Phase 2 trigger has activated on filianislost.com. Phase Connect's Phase Saga generation hits its one-year anniversary on October 25 — six weeks out. Phase Invaders Quest (Clio Aite, Mari Mari, Eepy Sleepy — debuted May 2026) filled Phase Connect's mid-year roster slot; the October window is unannounced. The October 25 countdown thread on /vt/ is the most consistently active non-drama general on the board this week, with Pippa stream timestamp compilations being assembled as circumstantial evidence for the Phase Connect theory. No confirmation from either side. The question is the same it has been for fifteen weeks. Six weeks is not much runway either way."
+    },
+    {
+      "num": "05",
+      "color": "#ff4fa3",
+      "date": "09 SEP",
+      "href": "https://vexpo.uk/",
+      "title": "VeXpo 2026 opens in four days at NEC Birmingham: Dokibird headlines Friday night, 2,200 expected, hololive EN concert screen on Saturday",
+      "blurb": "VeXpo 2026 runs September 18-20 at the National Exhibition Centre in Birmingham. Friday's opening concert at 20:00 is headlined by Dokibird and Dooby, with rachie, ChromaSHIFT, Akugaki Koa, Glitch Stars, Linvy, Lilith O'Leerie, and Skye Senfort across the bill. Saturday's premium concert begins at 21:00. The hololive English -All For One- 3rd concert screens during the weekend. Anticipated attendance is 2,200 — a 110 percent increase from 2024 — with 120 guests from across UK, EU, and North America. VeXpo is in its third year and has used progressively larger venues each time, with NEC Birmingham being the largest in the convention's history. Doors open Friday at 12:00. Four days out."
+    }
+  ],
+  "indieSubhead": "NO AGENCY, NO PROBLEM — NEWS FROM THE SELF-MADE CORNER OF THE SCENE",
+  "indies": [
+    {
+      "num": "01",
+      "color": "#ff4fa3",
+      "date": "12 SEP",
+      "href": "https://vexpo.uk/stages-panels",
+      "title": "Dokibird headlining VeXpo is the headline that defines what English-language indie VTubing looks like from the outside in 2026",
+      "blurb": "When Europe's biggest VTuber convention puts an independent creator at the top of its opening night bill above agency talent, that is a statement about where the scene's center of gravity sits. Dokibird headlines VeXpo 2026's Friday concert on September 18 — her first major European convention headline slot since going independent. The rest of the indie contingent on VeXpo's bill includes Linvy, Limina Alteri, Amaya Whisper, Hiyori Mokami, and Kai Kurayomi. The specific act at top billing communicates something about perceived commercial value. VeXpo's answer this year is a creator without an agency."
+    },
+    {
+      "num": "02",
+      "color": "#36d6e7",
+      "date": "10 SEP",
+      "href": "https://concon.shop/blogs/news/top-indie-vtubers-to-watch-2026",
+      "title": "Fifteen months post-VShojo: no agency signings among the English indie top tier, and the convention footprint keeps expanding",
+      "blurb": "Fifteen months after VShojo's closure, the English-language indie top tier has not moved to agencies. Dokibird, Shylily, Mint Fantome, Akuma Nihmune, Bao, and Matara Kan remain the consistently cited names and all are actively streaming without announced agency affiliations. The individual creator operations that replaced VShojo's functions — merch drops, collab scheduling, event appearances — now run at a scale comparable to what mid-tier agency acts operated two years ago. The predicted mass migration to agencies after VShojo's closure has not materialized. Fifteen months on, the trend lines point the other way."
+    },
+    {
+      "num": "03",
+      "color": "#c6ff3d",
+      "date": "11 SEP",
+      "href": "https://hololist.net/debut/",
+      "title": "September debut class: the post-convention viewer reset window delivers its expected indie launch wave for the third consecutive year",
+      "blurb": "The post-convention viewer reset window — after OffKai, Anime NYC, San Japan — is producing its expected debut class in the September 8-14 window, continuing the August trend from last issue. The September reset launch has been treated as a named strategy in debut-tracking communities for at least two years: lower competition than January launches, higher audience openness than mid-summer. Multiple English-language indie VTubers debuted or soft-launched this week targeting the window. The class spans YouTube and Twitch with the standard range of production levels. Tracking active at hololist.net."
+    }
+  ],
+  "onAirSubhead": "NOTABLE SLOTS WORTH CLEARING YOUR CALENDAR FOR · ALL TIMES LOCAL-ISH",
+  "onAir": [
+    {
+      "when": "FRI-SUN · 18-20 SEP",
+      "title": "VeXpo 2026 — NEC Birmingham, UK",
+      "desc": "Europe's largest VTuber convention; Dokibird and Dooby headline Friday 20:00 opening concert; rachie, ChromaSHIFT, Akugaki Koa, Glitch Stars on the bill; hololive EN All For One 3rd concert screening during the weekend; 120 guests, ~2,200 expected attendees; vexpo.uk",
+      "tag": "EVENT",
+      "tagColor": "#8b90a8"
+    },
+    {
+      "when": "WED · 23 SEP · 20:00 JST",
+      "title": "OdeHolo Reveal Special — hololive Next",
+      "desc": "Full title, key visual, and story details for hololive's first TV anime; hololive official YouTube; Nene, Polka, Lamy, Botan with Fubuki and Mio as MCs; National Holiday in Japan; nine days out",
+      "tag": "★ REVEAL",
+      "tagColor": "#ff4fa3"
+    },
+    {
+      "when": "SAT-SUN · 26-27 SEP",
+      "title": "nijiFAN Talk vol.6 — NIJISANJI",
+      "desc": "NIJISANJI community fan event, September 26-27 and October 3-4; historically used as a format ahead of new wave activity; details via nijisanji.jp/en/events",
+      "tag": "EVENT",
+      "tagColor": "#8b90a8"
+    },
+    {
+      "when": "SAT · 20 SEP - 1 OCT",
+      "title": "Justice City Groove — Mitsuwa Marketplace, Costa Mesa",
+      "desc": "Bandai Namco x hololive English Justice pop-up, first of five US stops; exclusive commissioned artwork and merch; 665 Paularino Ave, Costa Mesa, CA; tour continues to San Jose, Plano, Brooklyn, Arlington Heights through March 2027",
+      "tag": "◆ DROP",
+      "tagColor": "#c6ff3d"
+    },
+    {
+      "when": "SAT-SUN · 4-5 OCT",
+      "title": "Hoshimachi Suisei — Once Upon a Stellar · IG Arena Kobe",
+      "desc": "Second city of the four-city arena tour; October 4-5 at IG Arena, Kobe; streaming ticket info via studio-stellar.zaiko.io; Yokohama done, three cities remain",
+      "tag": "EVENT",
+      "tagColor": "#8b90a8"
+    }
+  ],
+  "tea": [
+    {
+      "color": "#ff4fa3",
+      "text": "The OdeHolo title speculation has become a genre of content in itself. Frontrunner theories this week: 'Ode to Hololive' (considered too on-the-nose by everyone except the people who think it's correct); 'Odekake Hololive' (odekake = outing or day trip, pointing toward a travel-comedy format); 'Odoru Hololive' (odoru = dancing, suggesting a music-performance spine). The Nene/Polka/Lamy/Botan reveal stream lineup has the fantasy-party-composition camp running — Botan and Lamy as the tactical duo, Nene as the wildcard, Polka as chaos — and their argument is that's your main cast right there. Zero confirmation from Cover. September 23 is nine days out and the guessing game has become genuinely entertaining even for people who don't care about anime."
+    },
+    {
+      "color": "#36d6e7",
+      "text": "ASOBI★MAWARI-TAI! has the talent-speculation threads moving at a pace that implies something leaked somewhere, even though nothing actually leaked. Board consensus says the teaser PV shows four distinct silhouettes — people have paused the film-reel animation to count — and the mekPARK trainee camp is confident those four are existing trainees being promoted to full debut. The counter-camp says the visual design language of the teaser is nothing like the mekPARK aesthetic that has circulated in design-speculation threads. Cover hasn't confirmed talent names or whether this pulls from existing trainees or introduces entirely new additions. Expected reveal window: one of the upcoming hololive Next weekly streams before end of September. Every Monday is now an ASOBI talent reveal watch."
+    },
+    {
+      "color": "#c6ff3d",
+      "text": "The Pippa timestamp method has graduated from shitpost to ongoing community project. The method: pull any Pippa stream from the past six weeks, timestamp anything that could plausibly read as a Filian spoiler, drop the timestamp with no explanation. The pile is now several hundred entries organized in a shared doc. The counter-camp maintains this is just Pippa doing the 'I have spoilers' bit as content — she does it regardless of what's real, and if you timestamp enough stream hours for anything you'll find patterns. Both camps agree October 25 is six weeks away and Filian hasn't said anything. The meta-joke is that even if Filian shows up in Phase Connect on October 25, the timestamp doc will be retroactively treated as prophetic. It will be."
+    },
+    {
+      "color": "#ff4fa3",
+      "text": "Word on /vt/ is the NIJISANJI EN immersion male audition shortlist emails are going out this week — the board math puts the 'approximately one month after August 29' window at September 14-21. The community debate is not 'who got shortlisted' (nobody knows that) but 'what does immersion-focused actually mean for an EN debut.' Best-case theory: a debut that constructs a world before the talent reveals themselves, ARG-style, with an in-universe premise the talent steps into. Realistic-expectation theory: it means the same thing as 'acting-focused' from the earlier audition and the result is a regular debut with slightly more narrative framing. Both camps agree the language was deliberate and unusual for Nijisanji EN. The emails either went out this week or they're about to."
+    }
+  ],
+  "footerNote": "Next signal drops Monday, 21 September — VeXpo will have wrapped by then (Dokibird headlined Friday, the hololive EN concert screen ran Saturday, 2,200 people were in Birmingham for three days), the OdeHolo anime reveal is two days out on the 23rd, and the Phase Saga anniversary clock has five weeks left on it. Fifteen weeks and counting on Filian. See you in seven."
+}
