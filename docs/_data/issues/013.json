@@ -1,0 +1,137 @@
+{
+  "kind": "weekly",
+  "label": "",
+  "issueNo": "013",
+  "issueDate": "28 SEP 2026",
+  "tagline": "OdeHolo is solved — it's hololive: Let's Head Out!, a travel-comedy with 29 talents and Studio KAI. ASOBI★MAWARI-TAI! completed all four debut streams and the first unit collab. Q4 starts today with the densest calendar of the year.",
+  "inThisIssue": [
+    "OdeHolo = hololive: Let's Head Out! — official title, 29 talents, Studio KAI travel-comedy format confirmed September 23",
+    "ASOBI★MAWARI-TAI! debut week complete — all four streams done, first unit collab landed September 25",
+    "nijiFAN Talk vol.6 opens weekend one; immersion-focused male audition shortlist window has now expired",
+    "The Tea Corner"
+  ],
+  "lead": {
+    "kicker": "TOP SIGNAL",
+    "title": "The mystery is solved: OdeHolo is officially hololive: Let's Head Out! — Odekake hololive confirmed September 23 with 29 talents, Studio KAI, and an omnibus Japan travel-comedy format",
+    "body": "The September 23 OdeHolo Information Reveal Program delivered everything held back since the September 7 announcement. The anime's official Japanese title is Odekake hololive — abbreviated OdeHolo exactly as the working title suggested. The English title is hololive: Let's Head Out! The format is an omnibus travel-comedy following hololive talents on their days off as they explore locations across Japan — local food, day trips, and specifically VTuber-coded tourist disasters. 29 hololive talents are participating; the full cast list and teaser key visual were released during the live broadcast hosted by Shirakami Fubuki and Ookami Mio. Production house is Studio KAI, directed by Shunsuke Machitani with assistant director Ōri Yasukawa, series composition by Kōdai Minami, and character design by Masatoshi Tsuji. COVER Corporation holds the original story credit. Air date window and episode count remain unannounced. The idol-action-drama camp, the lore-spine camp, and the music-first camp all predicted something more structural. The correct answer was: they go on day trips. The Odekake camp was right on both the sound and the premise and was informed immediately by approximately everyone."
+  },
+  "stories": [
+    {
+      "num": "01",
+      "color": "#ff4fa3",
+      "date": "25 SEP",
+      "href": "https://hololive10th-anniversary.hololivepro.com/en/news/08/",
+      "title": "ASOBI★MAWARI-TAI! debut week complete — four individual streams landed, first unit collab ran September 25 at 22:00 JST",
+      "blurb": "All four ASOBI★MAWARI-TAI! debut streams completed across September 24 and 25. Achichi Mela opened at 19:00 JST on September 24, followed by Sorashina Sopia at 20:00 JST; Day 2 opened with Suzuna Tsuzuri at 19:00 JST and closed with Hyakuto Kyoko at 20:00 JST. The first unit collab ran September 25 at 22:00 JST, putting all four on camera together for the first time. The laundromat is open. hololive's first new generation since DEV_IS Flow Glow in November 2024 is streaming, and the first new unit in roughly two years is operational."
+    },
+    {
+      "num": "02",
+      "color": "#36d6e7",
+      "date": "27 SEP",
+      "href": "https://www.nijisanji.jp/events/nijifantalk_vol6/",
+      "title": "nijiFAN Talk vol.6 opens weekend one — and the shortlist window for the immersion-focused male audition expired this week without public confirmations",
+      "blurb": "NIJISANJI EN's nijiFAN Talk vol.6 fan engagement event ran its first weekend September 26-27, with the continuation on October 3-4. The same week marked the approximate close of the one-month shortlist contact window for the Immersion-Focused: Male VTuber Audition, which closed applications August 29. No public shortlist confirmations surfaced. Community read is 'quiet shortlist under NDA' rather than 'no wave' — prior NIJISANJI EN waves have historically run without any public contact acknowledgement until a reveal. The October 3-4 weekend sits inside the secondary window. Watch it."
+    },
+    {
+      "num": "03",
+      "color": "#c6ff3d",
+      "date": "28 SEP",
+      "href": "https://x.com/Filian_VT1",
+      "title": "Week 17: Filian is still DEBUT DELAYED — the Phase Saga one-year anniversary is October 25, four weeks out",
+      "blurb": "September 28 is seventeen weeks since @Filian_VT1's countdown reached zero and the account switched to DEBUT DELAYED. Phase Connect's Phase Saga generation — Clio Aite, Mari Mari, Eepy Sleepy — marks one year on October 25. The anniversary is now four weeks away. No Phase Connect announcement has been made. The October 25 /vt/ thread remains among the board's most active non-drama generals; the Bayes-annotated Pippa timestamp doc is still updating. Pippa has not confirmed or denied anything. Phase Connect has not posted anything to deflate expectations. Four weeks."
+    },
+    {
+      "num": "04",
+      "color": "#9b6bff",
+      "date": "28 SEP",
+      "href": "https://vtubernewsdrop.com/tag/events/",
+      "title": "Q4 opens Monday with five anchor events in four weeks — the most forward-loaded VTuber calendar since September 7",
+      "blurb": "The post-VeXpo indie discovery window closed Friday, and Q4 2026 opens today with five simultaneous countdown clocks: OdeHolo cast and episode speculation ongoing, nijiFAN Talk vol.6 weekend two and Immersion-Focused Male audition announcement window on October 3-4, Suisei's Kobe show October 21, and the Phase Saga anniversary October 25. If Phase Connect announces something on October 25, the Q4 string extends into a six-event November. The calendar has not had this much simultaneous forward pressure since the September 7 hololive Next broadcast that set all of this in motion."
+    },
+    {
+      "num": "05",
+      "color": "#ff4fa3",
+      "date": "24 SEP",
+      "href": "https://animecorner.me/hololive-anime-reveals-official-title-teaser-visual-and-29-participating-talents/",
+      "title": "VTuber-adjacent anime is a confirmed growth sector in 2026 — and hololive: Let's Head Out! may be the category's largest production yet",
+      "blurb": "The OdeHolo reveal trended across general anime news coverage September 23-24, reaching audiences who follow anime production rather than VTubers specifically. The VTuber-adjacent anime category has developed quietly across 2025-2026 — Arasa ga VTuber ni Natta Hanashi and VTuber Shigemi Kusamura: I'm My Oshi's Favorite both adapt manga premises about VTuber fandom and creation. hololive: Let's Head Out! steps directly into that stream with a production budget implied by Studio KAI and 29 on-screen talent participants. The anime journalist beat and the VTuber fan community are looking at the same calendar for the first time. The premiere window is unannounced."
+    }
+  ],
+  "indieSubhead": "NO AGENCY, NO PROBLEM — NEWS FROM THE SELF-MADE CORNER OF THE SCENE",
+  "indies": [
+    {
+      "num": "01",
+      "color": "#ff4fa3",
+      "date": "26 SEP",
+      "href": "https://hololist.net/debut/",
+      "title": "Post-VeXpo discovery window closes Friday — the September debut class wraps Q3 with modest convention-boost numbers",
+      "blurb": "The post-VeXpo discovery window ran its standard week after the NEC Birmingham convention. Indie VTubers who scheduled September launches in the post-VeXpo week caught the audience attention tail from the first major UK VTuber convention. The September cohort is the final Q3 launch class; Q4 starts today with more anchor events and more competition for first-time viewer attention. The window closed without a breakout, but several mid-tier launches beat day-one expectations at margins consistent with the post-convention boost the community has tracked for at least three years. Debut data at hololist.net."
+    },
+    {
+      "num": "02",
+      "color": "#36d6e7",
+      "date": "25 SEP",
+      "href": "https://concon.shop/blogs/news/top-indie-vtubers-to-watch-2026",
+      "title": "16 months post-VShojo: the English indie top tier is still not moving to agencies — and the OdeHolo reveal sent a new discovery funnel into the scene",
+      "blurb": "Sixteen months after VShojo's shutdown, the consistently cited English indie top tier — Dokibird, Shylily, Mint Fantome, Akuma Nihmune, Bao, Matara Kan — has not announced agency affiliations. The September 23 OdeHolo reveal trended broadly in anime-fan coverage and anecdotally drove above-baseline discovery traffic to VTuber content this week. The pattern — a major hololive announcement creates a curiosity funnel — is established, and the indie tier is positioned to capture a share of first-time viewers it draws in. The post-VShojo agency migration continues to not happen. The audience is still growing without it."
+    },
+    {
+      "num": "03",
+      "color": "#c6ff3d",
+      "date": "28 SEP",
+      "href": "https://vtubernewsdrop.com/",
+      "title": "VTuber NewsDrop at ONLive and Oshi Con this weekend — Q4 community convention season is open",
+      "blurb": "VTuber NewsDrop confirmed on-site presence at ONLive and Oshi Con this weekend, two community events that mark the start of Q4 convention season for the English VTuber space. The Q4 calendar shifts from headline summer venues — VeXpo headlining at NEC Birmingham was this year's high-water mark — to fan-organized and mid-tier events where independent VTubers do most of their in-person programming. Convention coverage for Q4 2026 is live at vtubernewsdrop.com."
+    }
+  ],
+  "onAirSubhead": "NOTABLE SLOTS WORTH CLEARING YOUR CALENDAR FOR · ALL TIMES LOCAL-ISH",
+  "onAir": [
+    {
+      "when": "SAT-SUN · 3-4 OCT",
+      "title": "nijiFAN Talk vol.6 — Weekend Two, NIJISANJI EN",
+      "desc": "Second and final weekend of NIJISANJI EN's fan engagement event; the October 3-4 slot historically coincides with wave-related activity; the immersion-focused male audition shortlist window expired this past week with no public confirmations; event details at nijisanji.jp/en/events",
+      "tag": "EVENT",
+      "tagColor": "#36d6e7"
+    },
+    {
+      "when": "WED · 21 OCT · 19:00 JST",
+      "title": "Hoshimachi Suisei — Once Upon a Stellar · GLION Arena Kobe",
+      "desc": "Kobe leg of the four-city Studio STELLAR arena tour; Yokohama completed September 8-9; doors 18:00, show 19:00 JST; GLION Arena Kobe; streaming ticket info at studio-stellar.zaiko.io; Aichi (Nov 7) and Fukuoka (Nov 12) remain",
+      "tag": "EVENT",
+      "tagColor": "#9b6bff"
+    },
+    {
+      "when": "SUN · 25 OCT",
+      "title": "Phase Saga One-Year Anniversary — watch the @Filian_VT1 account",
+      "desc": "Phase Connect's Phase Saga generation (Clio Aite, Mari Mari, Eepy Sleepy) marks one year; Filian's DEBUT DELAYED count hits Week 21; no Phase Connect announcement as of this issue; zero cooling posts from Phase Connect ahead of the date",
+      "tag": "EVENT",
+      "tagColor": "#c6ff3d"
+    },
+    {
+      "when": "NOV · 7 & 12",
+      "title": "Hoshimachi Suisei — Once Upon a Stellar · Aichi then Fukuoka",
+      "desc": "Final two legs of the four-city arena tour; November 7 at IG Arena (Aichi); November 12 at Marine Messe Fukuoka A Hall (Fukuoka); streaming ticket info at studio-stellar.zaiko.io",
+      "tag": "EVENT",
+      "tagColor": "#8b90a8"
+    }
+  ],
+  "tea": [
+    {
+      "color": "#ff4fa3",
+      "text": "The /vt/ OdeHolo prediction thread ran for six days, called the Odekake camp correct, and the concession thread from the Ode wo Utaou side somehow concluded that a travel-comedy anime is actually optimal hololive content because 'they literally just travel between branches and call it work.' The thread referee posted 'still processing that it's a day trip anime about eating local food' and has not issued a formal ruling. Both camps agree the September 23 reveal night was absolutely unhinged, as predicted. No disagreement there. The idol-action-drama camp has gone quiet."
+    },
+    {
+      "color": "#36d6e7",
+      "text": "ASOBI★MAWARI-TAI! debuted and the laundromat lore thread doubled in size within 48 hours. The current leading theory: the laundromat setting is a callback to a 2022 Cover internal concept doc for a 'neighborhood connector' unit concept — someone claims to have a screenshot of the original layout that matches the ASOBI premise. Counter-theory: the screenshotter was discredited in three prior incidents and it's just a cute aesthetic. The shipping wars between Achichi Mela and Hyakuto Kyoko (police-firefighter enemy energy, predicted last week) generated approximately 400 pieces of art in the first 48 hours post-debut. The laundromat question is unresolved. The enemy-energy content is not."
+    },
+    {
+      "color": "#c6ff3d",
+      "text": "The Immersion-Focused Male audition shortlist window expired and the board ran its standard behavioral-tell sweep. Eight accounts flagged for at least one pre-debut indicator: social media cleanup, follower pattern shift, specific type of activity pause. Community probability tracker sits at 74% that shortlist contacts went out under NDA, 26% holding for an official no-shortlist announcement that NIJISANJI EN has not historically made. The tracker maintainer's note: the 74% extrapolates from four prior waves on incomplete data. The October 3-4 nijiFAN Talk weekend is the next natural announcement window. Both camps agree on that much."
+    },
+    {
+      "color": "#ff4fa3",
+      "text": "The Filian timestamp prophecy doc hit its highest single-week update count since launch after the Phase Saga anniversary moved inside the four-week window. The two camps are unchanged: timestamp scholars hold that Pippa has been signaling October 25 explicitly since at least July; counter-camp maintains it is selection bias on a long enough clip reel. One thing changed this week: Phase Connect has posted nothing to deflate expectations ahead of October 25. Prior agencies that knew an anniversary announcement wasn't coming have historically said something. The absence of a management tweet is being read as the tell. Both camps are watching the same date. Four weeks."
+    }
+  ],
+  "footerNote": "Next signal drops Monday, 5 October — by then nijiFAN Talk vol.6 will have closed its second weekend and the Immersion-Focused Male announcement window will have resolved, OdeHolo cast speculation will be a week deep, and the Phase Saga anniversary clock will be at three weeks. See you in seven."
+}
