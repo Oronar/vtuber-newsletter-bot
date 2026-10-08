@@ -50,8 +50,10 @@ between two implementations:
 
 **Editorial invariants** (carried from the legacy prompt; read them in the skill before
 loosening). Recency widened to **last 7 days** for the weekly cadence. Hololive/Holostars
-capped at two stories; Nijisanji, Phase Connect, and indies must be represented (VShojo
-closed 2025, PRISM closed 2024 — their talents are now independents). The **Tea Corner**
+capped at two stories; Nijisanji, Phase Connect, and indies must be represented. Every
+item must be dated news from the last 7 days — no "state of the scene" filler, no repeats
+of the last 3 issues, and no VShojo/PRISM framing unless a story is about that agency
+(issues 006–014 drifted into a recurring "N months post-VShojo" indie item). The **Tea Corner**
 gossip section is permanent with four hard content lines (no unverified misconduct/abuse/
 crime allegations against named people, no doxxing, no explicit NSFW, no real-person
 mental-health/self-harm speculation) — web search often surfaces exactly this off-limits

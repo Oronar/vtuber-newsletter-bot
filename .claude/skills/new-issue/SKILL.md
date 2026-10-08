@@ -46,8 +46,21 @@ If no mode is given, default to **`test`** (the safe choice — never publishes)
   since they carry reliable timestamps, but stay within roughly a week.)
 - **Balance:** keep it across the whole scene. **Hololive/Holostars: at most two stories.**
   Make a real effort to feature Nijisanji, Phase Connect, indie collectives, and notable
-  individual indies. Search many agencies, not just one. (Note: VShojo shut down in 2025
-  and PRISM Project closed in 2024 — their talents are now independents.)
+  individual indies. Search many agencies, not just one.
+- **Every item is news, not commentary.** Each story and indie item must be a specific,
+  dated event (a debut, stream, announcement, milestone, release) from the last 7 days,
+  with a source URL. Do **not** write "state of the scene", "N months after X", "trend
+  holds", "debut window", or rankings-recap items to fill a section — a slow week gets a
+  shorter section, not filler.
+- **No repeats across issues.** Before writing, read the last 3 issues in
+  `docs/_data/issues/` (titles and blurbs). Do not repeat a story, angle, or headline from
+  them unless there is a new, dated development this week — and then write it fresh as
+  that development, not as an update of the old item's wording. Never carry a running
+  counter or recurring segment forward ("16 months post-…", "third quarter running").
+- **Defunct agencies are not a beat.** Do not mention VShojo (closed 2025) or PRISM Project
+  (closed 2024) unless a story this week is specifically about that agency. Former
+  talents are just independents: describe them as such, never as "VShojo's …", "post-VShojo",
+  or "the VShojo diaspora".
 - **Tone:** light, positive, forward-to-a-friend fun — slightly irreverent, like you're
   texting a friend. Real talents and real agencies (this is a real fan newsletter, not
   fiction — there is no "fictional" disclaimer).
@@ -89,7 +102,8 @@ Every string is plain text (no markdown). Use real source URLs for `href`.
     // cycle color through: #ff4fa3, #36d6e7, #c6ff3d, #9b6bff
   ],
   "indieSubhead": "NO AGENCY, NO PROBLEM — NEWS FROM THE SELF-MADE CORNER OF THE SCENE",
-  "indies": [ /* 3-4 items, same object shape as stories, indie VTubers */ ],
+  "indies": [ /* 1-4 items, same object shape as stories, indie VTubers; only real
+                 dated news from the last 7 days — fewer items beats filler */ ],
   "onAirSubhead": "NOTABLE SLOTS WORTH CLEARING YOUR CALENDAR FOR · ALL TIMES LOCAL-ISH",
   "onAir": [                   // 3-5 upcoming streams/events from this week's announcements
     { "when": "FRI · 20:00", "title": "…", "desc": "…", "tag": "★ DEBUT", "tagColor": "#ff4fa3" }
